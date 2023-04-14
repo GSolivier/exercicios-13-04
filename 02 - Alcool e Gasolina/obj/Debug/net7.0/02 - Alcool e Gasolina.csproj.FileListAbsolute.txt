@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\exercicios-13-04\02 - Alcool e Gasolina\bin\Debug\net7.0\02 - Alcool e Gasolina.exe
+C:\Users\42634177801\Desktop\exercicios-13-04\02 - Alcool e Gasolina\bin\Debug\net7.0\02 - Alcool e Gasolina.deps.json
+C:\Users\42634177801\Desktop\exercicios-13-04\02 - Alcool e Gasolina\bin\Debug\net7.0\02 - Alcool e Gasolina.runtimeconfig.json
+C:\Users\42634177801\Desktop\exercicios-13-04\02 - Alcool e Gasolina\bin\Debug\net7.0\02 - Alcool e Gasolina.dll
+C:\Users\42634177801\Desktop\exercicios-13-04\02 - Alcool e Gasolina\bin\Debug\net7.0\02 - Alcool e Gasolina.pdb
+C:\Users\42634177801\Desktop\exercicios-13-04\02 - Alcool e Gasolina\obj\Debug\net7.0\02 - Alcool e Gasolina.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\02 - Alcool e Gasolina\obj\Debug\net7.0\02 - Alcool e Gasolina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\exercicios-13-04\02 - Alcool e Gasolina\obj\Debug\net7.0\02 - Alcool e Gasolina.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\02 - Alcool e Gasolina\obj\Debug\net7.0\02 - Alcool e Gasolina.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\exercicios-13-04\02 - Alcool e Gasolina\obj\Debug\net7.0\02 - Alcool e Gasolina.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\02 - Alcool e Gasolina\obj\Debug\net7.0\02 - Alcool e Gasolina.dll
+C:\Users\42634177801\Desktop\exercicios-13-04\02 - Alcool e Gasolina\obj\Debug\net7.0\refint\02 - Alcool e Gasolina.dll
+C:\Users\42634177801\Desktop\exercicios-13-04\02 - Alcool e Gasolina\obj\Debug\net7.0\02 - Alcool e Gasolina.pdb
+C:\Users\42634177801\Desktop\exercicios-13-04\02 - Alcool e Gasolina\obj\Debug\net7.0\02 - Alcool e Gasolina.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\02 - Alcool e Gasolina\obj\Debug\net7.0\ref\02 - Alcool e Gasolina.dll

@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\exercicios-13-04\03 - produto e preço\bin\Debug\net7.0\03 - produto e preço.exe
+C:\Users\42634177801\Desktop\exercicios-13-04\03 - produto e preço\bin\Debug\net7.0\03 - produto e preço.deps.json
+C:\Users\42634177801\Desktop\exercicios-13-04\03 - produto e preço\bin\Debug\net7.0\03 - produto e preço.runtimeconfig.json
+C:\Users\42634177801\Desktop\exercicios-13-04\03 - produto e preço\bin\Debug\net7.0\03 - produto e preço.dll
+C:\Users\42634177801\Desktop\exercicios-13-04\03 - produto e preço\bin\Debug\net7.0\03 - produto e preço.pdb
+C:\Users\42634177801\Desktop\exercicios-13-04\03 - produto e preço\obj\Debug\net7.0\03 - produto e preço.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\03 - produto e preço\obj\Debug\net7.0\03 - produto e preço.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\exercicios-13-04\03 - produto e preço\obj\Debug\net7.0\03 - produto e preço.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\03 - produto e preço\obj\Debug\net7.0\03 - produto e preço.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\exercicios-13-04\03 - produto e preço\obj\Debug\net7.0\03 - produto e preço.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\03 - produto e preço\obj\Debug\net7.0\03 - produto e preço.dll
+C:\Users\42634177801\Desktop\exercicios-13-04\03 - produto e preço\obj\Debug\net7.0\refint\03 - produto e preço.dll
+C:\Users\42634177801\Desktop\exercicios-13-04\03 - produto e preço\obj\Debug\net7.0\03 - produto e preço.pdb
+C:\Users\42634177801\Desktop\exercicios-13-04\03 - produto e preço\obj\Debug\net7.0\03 - produto e preço.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\03 - produto e preço\obj\Debug\net7.0\ref\03 - produto e preço.dll

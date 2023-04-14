@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\exercicios-13-04\06 - Nomes\bin\Debug\net7.0\06 - Nomes.exe
+C:\Users\42634177801\Desktop\exercicios-13-04\06 - Nomes\bin\Debug\net7.0\06 - Nomes.deps.json
+C:\Users\42634177801\Desktop\exercicios-13-04\06 - Nomes\bin\Debug\net7.0\06 - Nomes.runtimeconfig.json
+C:\Users\42634177801\Desktop\exercicios-13-04\06 - Nomes\bin\Debug\net7.0\06 - Nomes.dll
+C:\Users\42634177801\Desktop\exercicios-13-04\06 - Nomes\bin\Debug\net7.0\06 - Nomes.pdb
+C:\Users\42634177801\Desktop\exercicios-13-04\06 - Nomes\obj\Debug\net7.0\06 - Nomes.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\06 - Nomes\obj\Debug\net7.0\06 - Nomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\exercicios-13-04\06 - Nomes\obj\Debug\net7.0\06 - Nomes.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\06 - Nomes\obj\Debug\net7.0\06 - Nomes.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\exercicios-13-04\06 - Nomes\obj\Debug\net7.0\06 - Nomes.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\06 - Nomes\obj\Debug\net7.0\06 - Nomes.dll
+C:\Users\42634177801\Desktop\exercicios-13-04\06 - Nomes\obj\Debug\net7.0\refint\06 - Nomes.dll
+C:\Users\42634177801\Desktop\exercicios-13-04\06 - Nomes\obj\Debug\net7.0\06 - Nomes.pdb
+C:\Users\42634177801\Desktop\exercicios-13-04\06 - Nomes\obj\Debug\net7.0\06 - Nomes.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\06 - Nomes\obj\Debug\net7.0\ref\06 - Nomes.dll

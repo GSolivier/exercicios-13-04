@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\exercicios-13-04\01 - Ano de votação\bin\Debug\net7.0\01 - Ano de votação.exe
+C:\Users\42634177801\Desktop\exercicios-13-04\01 - Ano de votação\bin\Debug\net7.0\01 - Ano de votação.deps.json
+C:\Users\42634177801\Desktop\exercicios-13-04\01 - Ano de votação\bin\Debug\net7.0\01 - Ano de votação.runtimeconfig.json
+C:\Users\42634177801\Desktop\exercicios-13-04\01 - Ano de votação\bin\Debug\net7.0\01 - Ano de votação.dll
+C:\Users\42634177801\Desktop\exercicios-13-04\01 - Ano de votação\bin\Debug\net7.0\01 - Ano de votação.pdb
+C:\Users\42634177801\Desktop\exercicios-13-04\01 - Ano de votação\obj\Debug\net7.0\01 - Ano de votação.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\01 - Ano de votação\obj\Debug\net7.0\01 - Ano de votação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\exercicios-13-04\01 - Ano de votação\obj\Debug\net7.0\01 - Ano de votação.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\01 - Ano de votação\obj\Debug\net7.0\01 - Ano de votação.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\exercicios-13-04\01 - Ano de votação\obj\Debug\net7.0\01 - Ano de votação.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\01 - Ano de votação\obj\Debug\net7.0\01 - Ano de votação.dll
+C:\Users\42634177801\Desktop\exercicios-13-04\01 - Ano de votação\obj\Debug\net7.0\refint\01 - Ano de votação.dll
+C:\Users\42634177801\Desktop\exercicios-13-04\01 - Ano de votação\obj\Debug\net7.0\01 - Ano de votação.pdb
+C:\Users\42634177801\Desktop\exercicios-13-04\01 - Ano de votação\obj\Debug\net7.0\01 - Ano de votação.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\01 - Ano de votação\obj\Debug\net7.0\ref\01 - Ano de votação.dll

@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\exercicios-13-04\07 - 15 números\bin\Debug\net7.0\07 - 15 números.exe
+C:\Users\42634177801\Desktop\exercicios-13-04\07 - 15 números\bin\Debug\net7.0\07 - 15 números.deps.json
+C:\Users\42634177801\Desktop\exercicios-13-04\07 - 15 números\bin\Debug\net7.0\07 - 15 números.runtimeconfig.json
+C:\Users\42634177801\Desktop\exercicios-13-04\07 - 15 números\bin\Debug\net7.0\07 - 15 números.dll
+C:\Users\42634177801\Desktop\exercicios-13-04\07 - 15 números\bin\Debug\net7.0\07 - 15 números.pdb
+C:\Users\42634177801\Desktop\exercicios-13-04\07 - 15 números\obj\Debug\net7.0\07 - 15 números.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\07 - 15 números\obj\Debug\net7.0\07 - 15 números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\exercicios-13-04\07 - 15 números\obj\Debug\net7.0\07 - 15 números.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\07 - 15 números\obj\Debug\net7.0\07 - 15 números.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\exercicios-13-04\07 - 15 números\obj\Debug\net7.0\07 - 15 números.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\07 - 15 números\obj\Debug\net7.0\07 - 15 números.dll
+C:\Users\42634177801\Desktop\exercicios-13-04\07 - 15 números\obj\Debug\net7.0\refint\07 - 15 números.dll
+C:\Users\42634177801\Desktop\exercicios-13-04\07 - 15 números\obj\Debug\net7.0\07 - 15 números.pdb
+C:\Users\42634177801\Desktop\exercicios-13-04\07 - 15 números\obj\Debug\net7.0\07 - 15 números.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\07 - 15 números\obj\Debug\net7.0\ref\07 - 15 números.dll

@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\exercicios-13-04\04 - Menor e maior valor\bin\Debug\net7.0\04 - Menor e maior valor.exe
+C:\Users\42634177801\Desktop\exercicios-13-04\04 - Menor e maior valor\bin\Debug\net7.0\04 - Menor e maior valor.deps.json
+C:\Users\42634177801\Desktop\exercicios-13-04\04 - Menor e maior valor\bin\Debug\net7.0\04 - Menor e maior valor.runtimeconfig.json
+C:\Users\42634177801\Desktop\exercicios-13-04\04 - Menor e maior valor\bin\Debug\net7.0\04 - Menor e maior valor.dll
+C:\Users\42634177801\Desktop\exercicios-13-04\04 - Menor e maior valor\bin\Debug\net7.0\04 - Menor e maior valor.pdb
+C:\Users\42634177801\Desktop\exercicios-13-04\04 - Menor e maior valor\obj\Debug\net7.0\04 - Menor e maior valor.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\04 - Menor e maior valor\obj\Debug\net7.0\04 - Menor e maior valor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\exercicios-13-04\04 - Menor e maior valor\obj\Debug\net7.0\04 - Menor e maior valor.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\04 - Menor e maior valor\obj\Debug\net7.0\04 - Menor e maior valor.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\exercicios-13-04\04 - Menor e maior valor\obj\Debug\net7.0\04 - Menor e maior valor.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\04 - Menor e maior valor\obj\Debug\net7.0\04 - Menor e maior valor.dll
+C:\Users\42634177801\Desktop\exercicios-13-04\04 - Menor e maior valor\obj\Debug\net7.0\refint\04 - Menor e maior valor.dll
+C:\Users\42634177801\Desktop\exercicios-13-04\04 - Menor e maior valor\obj\Debug\net7.0\04 - Menor e maior valor.pdb
+C:\Users\42634177801\Desktop\exercicios-13-04\04 - Menor e maior valor\obj\Debug\net7.0\04 - Menor e maior valor.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\exercicios-13-04\04 - Menor e maior valor\obj\Debug\net7.0\ref\04 - Menor e maior valor.dll

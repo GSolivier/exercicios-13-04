@@ -1,0 +1,15 @@
+D:\ADS - SENAI\exercicio-estruturasderepeticao\6 - tabuada 1 a 10\bin\Debug\net7.0\6 - tabuada 1 a 10.exe
+D:\ADS - SENAI\exercicio-estruturasderepeticao\6 - tabuada 1 a 10\bin\Debug\net7.0\6 - tabuada 1 a 10.deps.json
+D:\ADS - SENAI\exercicio-estruturasderepeticao\6 - tabuada 1 a 10\bin\Debug\net7.0\6 - tabuada 1 a 10.runtimeconfig.json
+D:\ADS - SENAI\exercicio-estruturasderepeticao\6 - tabuada 1 a 10\bin\Debug\net7.0\6 - tabuada 1 a 10.dll
+D:\ADS - SENAI\exercicio-estruturasderepeticao\6 - tabuada 1 a 10\bin\Debug\net7.0\6 - tabuada 1 a 10.pdb
+D:\ADS - SENAI\exercicio-estruturasderepeticao\6 - tabuada 1 a 10\obj\Debug\net7.0\6 - tabuada 1 a 10.csproj.AssemblyReference.cache
+D:\ADS - SENAI\exercicio-estruturasderepeticao\6 - tabuada 1 a 10\obj\Debug\net7.0\6 - tabuada 1 a 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADS - SENAI\exercicio-estruturasderepeticao\6 - tabuada 1 a 10\obj\Debug\net7.0\6 - tabuada 1 a 10.AssemblyInfoInputs.cache
+D:\ADS - SENAI\exercicio-estruturasderepeticao\6 - tabuada 1 a 10\obj\Debug\net7.0\6 - tabuada 1 a 10.AssemblyInfo.cs
+D:\ADS - SENAI\exercicio-estruturasderepeticao\6 - tabuada 1 a 10\obj\Debug\net7.0\6 - tabuada 1 a 10.csproj.CoreCompileInputs.cache
+D:\ADS - SENAI\exercicio-estruturasderepeticao\6 - tabuada 1 a 10\obj\Debug\net7.0\6 - tabuada 1 a 10.dll
+D:\ADS - SENAI\exercicio-estruturasderepeticao\6 - tabuada 1 a 10\obj\Debug\net7.0\refint\6 - tabuada 1 a 10.dll
+D:\ADS - SENAI\exercicio-estruturasderepeticao\6 - tabuada 1 a 10\obj\Debug\net7.0\6 - tabuada 1 a 10.pdb
+D:\ADS - SENAI\exercicio-estruturasderepeticao\6 - tabuada 1 a 10\obj\Debug\net7.0\6 - tabuada 1 a 10.genruntimeconfig.cache
+D:\ADS - SENAI\exercicio-estruturasderepeticao\6 - tabuada 1 a 10\obj\Debug\net7.0\ref\6 - tabuada 1 a 10.dll
