@@ -6,17 +6,50 @@
 // acima de 10 o desconto será de 5%
 
 using System.Globalization;
+using System.Text.RegularExpressions;
+
 
 string nomeProduto;
-int quantidadeProduto;
 float precoProduto;
 float precoDesconto;
+var quantidadeProduto = 0;
+bool loopBreak = true;
 
+do
+{
+    
 Console.WriteLine($"Digite o nome do produto que deseja comprar: ");
-nomeProduto = Console.ReadLine();
+nomeProduto = Console.ReadLine();    
 
+bool ok = Regex.IsMatch(nomeProduto, "^[a-zA-Z_ ]+$");
+
+if(!ok || string.IsNullOrEmpty(nomeProduto) || string.IsNullOrWhiteSpace(nomeProduto))
+{
+    Console.WriteLine($"o valor digitado não é válido.");
+    loopBreak = true;
+}
+else{
+    loopBreak = false;
+}
+} while (loopBreak);
+
+
+do
+{
 Console.WriteLine($"Digite quantas unidades do produtos você quer adquirir: ");
 quantidadeProduto = int.Parse(Console.ReadLine());
+
+bool ok = Regex.IsMatch(quantidadeProduto, "^[0-9]+$");
+
+if(!ok || string.IsNullOrEmpty(quantidadeProduto) || string.IsNullOrWhiteSpace(quantidadeProduto))
+{
+    Console.WriteLine($"o valor digitado não é válido.");
+    loopBreak = true;
+}
+else{
+    loopBreak = false;
+}
+} while (loopBreak);
 
 Console.WriteLine($"Digite o preço do produto (por unidade): ");
 precoProduto = float.Parse(Console.ReadLine());

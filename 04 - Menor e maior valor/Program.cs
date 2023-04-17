@@ -1,7 +1,7 @@
 ﻿// Ler 10 números do usuário
 // retornar o menor e o maior valor
 
-float[] numeros = new float[11];
+float[] numeros = new float[10];
 float menor = 16777216;
 float maior = 0;
 
